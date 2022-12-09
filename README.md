@@ -1,4 +1,4 @@
-# The Algorithms - Python
+# The Algorithms - Python masoud
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square)](https://gitpod.io/#https://github.com/TheAlgorithms/Python)&nbsp;
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TheAlgorithms/Python/build?label=CI&logo=github&style=flat-square)](https://github.com/TheAlgorithms/Python/actions)&nbsp;
@@ -24,4 +24,4 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 
 ## List of Algorithms
 
-See our [directory](DIRECTORY.md).
+See our [directory](DIRECTORY.md). 
